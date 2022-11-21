@@ -1,0 +1,36 @@
+<style>
+.material-symbols-outlined {
+  font-variation-settings:
+}
+</style>
+
+body {
+    background: rgb(73, 195, 228);
+}
+
+div{
+    display: inline-block;
+    border: 2px solid black;
+    width: 300px;
+    margin-right: 20px;
+
+}
+.image-cards {
+    text-align: center;
+    background:white ;
+}
+
+li {
+    display: inline;
+     font-size:1em;
+     margin: right 24px;
+    
+}
+
+ul{
+    padding-left: 0px;
+}
+
+.company-name {
+    font-size: 2em;
+}
